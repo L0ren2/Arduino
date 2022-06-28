@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cassert>
-#include "../array.h"
+#include "../lib/array.h"
 
 void test_size()
 {

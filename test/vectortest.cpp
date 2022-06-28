@@ -1,6 +1,6 @@
 #include <cassert>
 #include <iostream>
-#include "../vector.h"
+#include "../lib/vector.h"
 
 void test_simple_push_back()
 {
